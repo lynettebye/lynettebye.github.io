@@ -12,6 +12,6 @@ If you want to contact me about a story, you can find me on Signal at 4477366770
 
 You're welcome to fill out the form with your questions or schedule an intake call [here](/schedule-call) to discuss coaching fit.
 
-[Frequently Asked Questions »](/services#faq)
+[Frequently Asked Questions »](/coaching#faq)
 
 ![](/assets/images/BranchesAbove-578cb2.jpg)
