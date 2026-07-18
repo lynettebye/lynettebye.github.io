@@ -1,0 +1,14 @@
+---
+layout: page
+title: Home
+---
+
+![](/assets/images/dream_izho599am8k-0da3e9.jpg)
+
+# **Hi!**
+
+I’m still doing productivity coaching. However, in 2024, I decided that artificial intelligence was simply too important *not* to write about, so I paused productivity blogging and put my writing effort toward AI journalism. I’m primarily writing analysis pieces for [Transformer](https://www.transformernews.ai), Shakeel Hashim’s excellent (in my totally unbiased opinion) newsletter.
+
+# **Productivity Coaching**
+
+I specialize in an experimental, practical coaching approach, and I’m particularly good for tackling perfectionism, inefficiency, poor prioritization, and planning issues. If you have strong ADHD symptoms or need more of a therapy-style focus on emotions and motivation, you can probably find other coaches that will work better for you. You can sign up below for a free 30-minute intake call to discuss whether we’re a good fit.

@@ -1,0 +1,15 @@
+title: Lynette Bye
+description: AI journalism, productivity coaching, and research-backed advice.
+url: "https://lynettebye.com"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+permalink: /blog/:year/:month/:day/:title
+header_pages:
+  - about.md
+  - journalism.md
+  - coaching.md
+  - contact.md
+markdown: kramdown
