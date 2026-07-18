@@ -7,7 +7,7 @@ title: Home
 
 # **Hi!**
 
-I’m still doing productivity coaching. However, in 2024, I decided that artificial intelligence was simply too important *not* to write about, so I paused productivity blogging and put my writing effort toward AI journalism. I’m primarily writing analysis pieces for [Transformer](https://www.transformernews.ai), Shakeel Hashim’s excellent (in my totally unbiased opinion) newsletter.
+I’m still doing productivity coaching. However, in 2024, I decided that artificial intelligence was simply too important *not* to write about, so I paused productivity blogging and put my writing effort toward AI journalism. I’m primarily writing analysis pieces for [Transformer](https://www.transformernews.ai) and editing [Epoch AI's newsletter](https://epoch.ai/gradient-updates).
 
 <!-- Feed embed code -->
 <div data-supascribe-embed-id="680087266510" data-supascribe-feed></div>
@@ -18,4 +18,4 @@ I’m still doing productivity coaching. However, in 2024, I decided that artifi
 
 # **Productivity Coaching**
 
-I specialize in an experimental, practical coaching approach, and I’m particularly good for tackling perfectionism, inefficiency, poor prioritization, and planning issues. If you have strong ADHD symptoms or need more of a therapy-style focus on emotions and motivation, you can probably find other coaches that will work better for you. You can sign up below for a free 30-minute intake call to discuss whether we’re a good fit.
+I specialize in an experiment-based, practical coaching approach, and I’m particularly good for tackling perfectionism, inefficiency, poor prioritization, and planning issues. If you have strong ADHD symptoms or need more of a therapy-style focus on emotions and motivation, you can probably find other coaches that will work better for you. You can sign up below for a free 30-minute intake call to discuss whether we’re a good fit.
