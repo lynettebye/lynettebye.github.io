@@ -35,7 +35,7 @@ The intake call gives you a taste of what coaching is like with me. You can ask 
   <p><button type="submit" class="teal-button">Submit</button></p>
   <p id="form-error" style="display:none;color:#b00020;">Sorry, something went wrong sending the form. Please try again, or email Lynette directly.</p>
 </form>
-<div id="form-thanks" style="display:none;">
+<div id="form-thanks" class="thanks-box" style="display:none;">
   <p>Thank you for filling in the form. You can schedule your free 30-minute intake call here: <a href="https://calendly.com/lynettebye/30min">https://calendly.com/lynettebye/30min</a>. You’ll also receive a Google doc prior to our call with questions to prepare before our call.</p>
   <p>I look forward to speaking with you!</p>
 </div>
