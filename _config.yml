@@ -8,6 +8,7 @@ plugins:
   - jekyll-seo-tag
 permalink: /blog/:year/:month/:day/:title
 header_pages:
+  - blog-index.md
   - about.md
   - journalism.md
   - coaching.md
