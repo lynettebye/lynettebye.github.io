@@ -9,14 +9,30 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
+      {%- assign thumb = post.thumbnail -%}
+      {%- unless thumb -%}
+        {%- assign parts = post.content | split: '<img' -%}
+        {%- if parts.size > 1 -%}
+          {%- assign srcparts = parts[1] | split: 'src="' -%}
+          {%- if srcparts.size > 1 -%}
+            {%- assign thumb = srcparts[1] | split: '"' | first -%}
+          {%- endif -%}
+        {%- endif -%}
+      {%- endunless -%}
+      {%- unless thumb -%}{%- assign thumb = '/assets/images/banner.png' -%}{%- endunless -%}
+      <li class="post-row">
+        <a href="{{ post.url | relative_url }}" class="post-thumb-link">
+          <img class="post-thumb" src="{{ thumb | relative_url }}" alt="" loading="lazy">
+        </a>
+        <div class="post-row-text">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+        </div>
       </li>
       {%- endfor -%}
     </ul>
