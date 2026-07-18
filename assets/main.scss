@@ -57,3 +57,19 @@ hr.teal-rule {
   margin: 1.5em 0;
 }
 .thanks-box p:last-child { margin-bottom: 0; }
+
+.price-row {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin: 1.5em 0;
+}
+
+.faq-links {
+  columns: 2;
+  column-gap: 2.5em;
+}
+@media (max-width: 600px) {
+  .faq-links { columns: 1; }
+}
