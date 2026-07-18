@@ -1,0 +1,17 @@
+---
+---
+@import "minima";
+
+$teal: #7ECFD6;
+
+.site-title,
+.site-title:visited,
+.site-title:hover {
+  color: $teal;
+}
+
+hr.teal-rule {
+  border: none;
+  border-top: 3px solid $teal;
+  margin: 2em 0 1.5em 0;
+}
