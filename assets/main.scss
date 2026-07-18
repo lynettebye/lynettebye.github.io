@@ -21,3 +21,29 @@ hr.teal-rule {
   border-top: 3px solid $teal;
   margin: 2em 0 1.5em 0;
 }
+
+.teal-button {
+  display: inline-block;
+  background: $teal;
+  color: #fff !important;
+  padding: 10px 22px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.teal-button:hover { background: darken(#49BAC7, 10%); text-decoration: none; }
+
+#intake-form label { font-weight: bold; }
+#intake-form .req { font-weight: normal; color: #828282; font-size: 14px; }
+#intake-form input[type="text"],
+#intake-form input[type="email"],
+#intake-form textarea {
+  width: 100%;
+  max-width: 480px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font: inherit;
+}
