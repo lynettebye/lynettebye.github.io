@@ -1,6 +1,6 @@
 ---
 ---
-$brand-color: #2E8B96;
+$brand-color: lighten(#2E8B96, 15%);  // visited auto-darkens back to exactly #2E8B96
 
 @import "minima";
 
