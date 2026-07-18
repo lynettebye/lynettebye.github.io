@@ -41,9 +41,7 @@ Honestly: it depends mostly on you. Sessions are where we diagnose and plan; the
 - [What is the cancellation policy?](#cancellation-policy)
 - [Where can you take clients?](#80,000-hours)
 - [Is an EA coach different from a non-EA coach?](#eacoach)
-- [I'm already productive. Will coaching help me?](#professional)
 - [Is coaching the same as therapy?](#therapy)
-- [Is coaching for me?](#is-coaching-for-me)
 - [What if I’m not sure coaching is a good use of your time?](#shouldisignup)
 - [What if I’m looking for career coaching?](#career)
 - [I have ADHD; will coaching help with it?](#ADHD)
@@ -51,20 +49,15 @@ Honestly: it depends mostly on you. Sessions are where we diagnose and plan; the
 
 ![](/assets/images/FordingtheRiver2021-5e610d.jpg)
 
-**Acknowledgements**
-
-Many thanks to EA Grants, the EA Meta Fund, and the Long-Term Future Fund for supporting me in the early days when I was first starting coaching.
-
 <div id="faq" markdown="0">
 
 <p id="cost"><b><i>What does coaching cost?</i></b> — The sessions are $200 per 50-minute session, and I bill in groups of four sessions. I have a generous sliding scale available based on financial need. If you’re not sure if you can afford coaching, feel free to sign up for an intake call — you can get the benefit of the first session and discuss the sliding scale during the call.</p>
 
 <p id="types-of-issues"><b><i>What types of issues do you work with?</i></b> — Your biggest problems. More seriously, coaching is tailored to the areas you most want change. Maybe that’s a big area, like how to discipline yourself to independently write your thesis, or a specific strategic area, such as email management.</p>
 
-<p>The most common areas I focus on are setting priorities to quickly make effective progress, and implementing work routines to devote focused time to your top priority.</p>
-
-<p>Other common areas are:</p>
+<p>Some common areas are:</p>
 <ul>
+  <li>Perfectionism and imposter syndrome</li>
   <li>Making plans and clarifying goals</li>
   <li>Balancing high standards with reasonable expectations so you accomplish a lot without burning out</li>
   <li>Setting up experiments to test what works best for you</li>
@@ -95,17 +88,13 @@ Many thanks to EA Grants, the EA Meta Fund, and the Long-Term Future Fund for su
 
 <p>In most other respects, I expect the coach’s style and area of expertise to make a bigger difference than whether they are in the effective altruism community or not. I focus on productivity with an experimental approuch, which is quite different from a coach who will mainly focus on emotional exploration or interpersonal relationships. I'm also very blunt and direct. If you want a really gentle coach, I'm probably not the best fit.</p>
 
-<p id="professional"><b><i>I'm already a productive person. Will coaching help me?</i></b> — Yes! I specialize in working with outstanding people who are often already quite productive and successful. If you're getting satisfactory performance reviews but aren't feeling satisfied and in-control of what you accomplish, then you're likely a great fit.</p>
-
 <p id="therapy"><b><i>Is coaching the same thing as therapy?</i></b> — I’m a productivity coach. I am not a therapist or doctor. If you just want to work through an argument with your girlfriend or you need help with depression, I encourage you to seek a qualified doctor or therapist.</p>
 
-<p>If you think you might like to see a therapist, there is now a database of <a href="https://www.mentalhealthnavigator.co.uk/providers">community-recommended providers</a> that you can filter to find someone who fits your needs.</p>
-
-<p id="is-coaching-for-me"><b><i>How do I figure out if coaching is for me?</i></b> — If you have persistent problems areas you would like to be more productive about, and they haven’t changed despite the self-help books you read (or meant to read) - there’s a good chance coaching is for you. To help you with your decision, let’s talk! <a href="/schedule-call">Book your free fit call here.</a></p>
+<p>If you think you might like to see a therapist, there is now a database of <a href="https://www.eamentalhealthnavigator.com/">community-recommended providers</a> that you can filter to find someone who fits your needs.</p>
 
 <p id="shouldisignup"><b><i>Should I sign up for coaching if I’m not sure it’s a good use of your time relative to other people you could coach?</i></b> — You should go ahead and sign up for a call. I was asked to include this question in the FAQ section, and I've had several people ask this question who I think were a great fit for coaching. I’d prefer to discuss it in our call rather than have great people not sign up for coaching!</p>
 
-<p id="career"><b><i>I’m looking for career coaching; do you do that?</i></b> — Yes! I frequently help clients through career transitions. I’ll help you structure your goals, stay motivated, prioritize the key tasks, and think through big considerations. In short, I’ll help you keep studying and sending out applications.</p>
+<p id="career"><b><i>I’m looking for career coaching; do you do that?</i></b> — I frequently help clients through career transitions. I'm happy to help if you're looking for help structuring your goals, staying motivated, prioritizing key tasks, and thinking through big considerations. If you're looking for subject-matter help, then there are likely better fits.</p>
 
 <p>I can also help if you’re trying to get better in your current job. I can help you structure deliberate practice, carve out deep work time, and prioritize so you make progress quickly.</p>
 
