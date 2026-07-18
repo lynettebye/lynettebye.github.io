@@ -12,7 +12,7 @@ Artificial intelligence is changing the world around us, potentially in profound
   
 At the start of 2024, I received the Tarbell Fellowship to pursue AI journalism full-time. The Tarbell Fellowship provides mentorship, support, and funding for early-career  AI journalists. I was one of eight Tarbell Fellows, chosen from a pool of 500+ candidates.   
   
-After the fellowship, I’ve continued to freelance for AI news outlets with an important mission, primarily Transformer and Epoch AI. You can follow my writing at [lynettebye.substack.com](https://lynettebye.substack.com), where I link to other places I'm published.    
+Since then, I freelance for AI news outlets with an important mission. Most recently, that’s been Transformer and Epoch AI. You can follow my writing at [lynettebye.substack.com](https://lynettebye.substack.com), where I link to other places I'm published.    
   
 I strive for accurate, calibrated opinions in my writing. I'm also coming in with my own beliefs: AI is a big deal. It's important that it goes well, and that is most likely to happen if we understand what's happening clearly.
 
@@ -26,7 +26,7 @@ By default, casual conversations at social events are on background/off the reco
 All coaching conversations are confidential and will not be reported on.
 
 *Disclosures and conflicts of interest*  
-The Tarbell Fellowship and Transformer are in part funded by Open Philanthropy, an organization which funds lots of work on AI safety and advocacy. Neither Open Philanthropy nor Tarbell have any editorial control over what I write.
+The Tarbell Fellowship, Transformer, and Epoch AI are in part funded by Coefficient Giving, an organization which funds lots of work on AI safety and advocacy. Neither Coefficient Giving nor Tarbell have any editorial control over what I write.
 
 My partner works at Google DeepMind.
 
