@@ -1,5 +1,7 @@
 ---
 ---
+$brand-color: #2E8B96;
+
 @import "minima";
 
 $teal: #7ECFD6;
@@ -7,6 +9,10 @@ $teal: #7ECFD6;
 .site-title,
 .site-title:visited,
 .site-title:hover {
+  color: $teal;
+}
+
+.site-nav .page-link {
   color: $teal;
 }
 

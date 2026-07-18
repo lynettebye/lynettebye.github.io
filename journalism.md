@@ -14,7 +14,9 @@ You can follow my writing at [lynettebye.substack.com](https://lynettebye.substa
   
 I strive for accurate, calibrated opinions in my writing. I'm also coming in with my own beliefs: AI is a big deal. It's important that it goes well, and that is most likely to happen if we understand what's happening clearly.
 
-*Levels of Attribution*On the record - I can quote you by name in writing.   
+*Levels of Attribution*
+
+On the record - I can quote you by name in writing.   
 On background - I can write about what you said but not identify that you’re the person who said it. (Essentially Chatham house rules)   
 Off the record - I won't write about what you said. Because this is so restrictive, I’ll usually request interviews be on the record or on background.  
   
