@@ -2,7 +2,7 @@
 layout: post
 title: "Five Ways to Prioritize Better"
 date: 2020-06-27 18:29:13
-thumbnail: /assets/images/cover-Top-Priority-84c018.png
+thumbnail: /assets/images/FordingtheRiver2021-5e610d.jpg
 featured: 2
 permalink: /blog/2020/6/26/five-ways-to-prioritize-better
 ---
