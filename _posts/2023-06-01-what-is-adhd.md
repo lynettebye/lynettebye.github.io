@@ -3,6 +3,7 @@ layout: post
 title: "What is ADHD?"
 date: 2023-06-01 18:34:44
 thumbnail: /assets/images/cover-colorful-brain-4e491a.jpg
+featured: 3
 permalink: /blog/2023/5/16/what-is-adhd
 ---
 

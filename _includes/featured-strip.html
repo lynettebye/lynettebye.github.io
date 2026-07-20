@@ -1,0 +1,25 @@
+{%- assign featured = site.posts | where_exp: "p", "p.featured" | sort: "featured" -%}
+{%- assign n = include.count | default: 8 -%}
+<ul class="featured-grid">
+  {%- for post in featured limit: n -%}
+  {%- assign thumb = post.thumbnail -%}
+  {%- unless thumb -%}
+    {%- assign parts = post.content | split: '<img' -%}
+    {%- if parts.size > 1 -%}
+      {%- assign srcparts = parts[1] | split: 'src="' -%}
+      {%- if srcparts.size > 1 -%}
+        {%- assign thumb = srcparts[1] | split: '"' | first -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endunless -%}
+  {%- unless thumb -%}{%- assign thumb = '/assets/images/banner.png' -%}{%- endunless -%}
+  <li class="featured-card">
+    <a href="{{ post.url | relative_url }}">
+      <span class="featured-thumb-box">
+        <img src="{{ thumb | relative_url }}" alt="" loading="lazy">
+      </span>
+      <span class="featured-title">{{ post.title | escape }}</span>
+    </a>
+  </li>
+  {%- endfor -%}
+</ul>

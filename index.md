@@ -21,3 +21,11 @@ I’m still doing productivity coaching. However, in 2024, I decided that artifi
 I specialize in an experiment-based, practical coaching approach, and I’m particularly good for tackling perfectionism, inefficiency, poor prioritization, and planning issues. If you have strong ADHD symptoms or need more of a therapy-style focus on emotions and motivation, you can probably find other coaches that will work better for you. You can sign up below for a free 30-minute intake call to discuss whether we’re a good fit.
 
 <p><a class="teal-button" href="/schedule-call">Sign up for a free intake call</a></p>
+
+<hr class="teal-rule">
+
+## Recommended posts
+
+{% include featured-strip.html count=4 %}
+
+<p><a href="/blog-index">See all posts »</a></p>

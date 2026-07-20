@@ -2,6 +2,7 @@
 layout: post
 title: "Questions for prioritizing projects"
 date: 2020-12-01 03:24:35
+featured: 7
 permalink: /blog/2020/11/30/questions-for-prioritizing-projects
 ---
 

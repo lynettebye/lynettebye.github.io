@@ -101,3 +101,41 @@ hr.teal-rule {
   display: block;
 }
 .post-row-text h3 { margin-bottom: 0; }
+
+.section-heading { margin-top: 1.2em; }
+
+.featured-grid {
+  list-style: none;
+  margin: 0 0 2em 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 22px;
+}
+.featured-card a {
+  display: block;
+  text-decoration: none;
+}
+.featured-card a:hover { text-decoration: none; }
+.featured-thumb-box {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: 6px;
+  background: #f2f2f2;
+}
+.featured-thumb-box img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+  display: block;
+}
+.featured-title {
+  display: block;
+  margin-top: 8px;
+  font-size: 16px;
+  line-height: 1.3;
+  color: $brand-color;
+}
+.featured-card a:hover .featured-title { text-decoration: underline; }

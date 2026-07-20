@@ -3,6 +3,7 @@ layout: post
 title: "Resources on mental health and finding a therapist"
 date: 2021-02-22 03:25:29
 thumbnail: /assets/images/cover-therapy-prime-cac3a7.jpg
+featured: 6
 permalink: /blog/2021/2/21/resources-on-mental-health-and-finding-a-therapist
 ---
 

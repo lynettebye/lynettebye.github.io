@@ -3,6 +3,7 @@ layout: post
 title: "New Year Review Resources"
 date: 2022-01-16 18:19:47
 thumbnail: /assets/images/cover-fireworks-076f2e.jpg
+featured: 5
 permalink: /blog/2022/1/16/new-year-review-resources
 ---
 
