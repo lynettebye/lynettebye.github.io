@@ -3,7 +3,7 @@ layout: post
 title: "My career exploration: Tools for building confidence"
 date: 2024-07-29 10:35:19
 thumbnail: /assets/images/cover-Three-Sisters-Nov-2024-5966fe.jpg
-featured: 1
+featured: 4
 permalink: /blog/2024/7/29/my-career-exploration-tools-for-building-confidence
 ---
 
