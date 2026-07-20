@@ -62,5 +62,3 @@ document.getElementById('contact-form').addEventListener('submit', async functio
 </div>
 
 [Frequently Asked Questions »](/coaching#faq)
-
-![](/assets/images/BranchesAbove-578cb2.jpg)

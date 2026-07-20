@@ -64,6 +64,4 @@ document.getElementById('intake-form').addEventListener('submit', async function
 </div>
 
 
-![](/assets/images/OldTreebyWaterfallSep2023-c5229f.jpg)
-
 \*The intake call is for first-time callers. If you’ve done coaching with Lynette before, please email to schedule a call.

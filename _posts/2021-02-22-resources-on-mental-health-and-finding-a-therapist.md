@@ -57,7 +57,7 @@ Anisha Sensa Mauze, yet another EA therapist, wrote a [guide](https://www.lesswr
 
 ## Finding a therapist
 
-**You can find a list of providers recommended by community members on the** [**EA Mental Health Navigator (MHN).**](https://www.eamentalhealthnavigator.com/recommended-providers) **This list is the best resource for finding a therapist that is likely to work well with EAs that I know of.** (Disclaimer, I helped set up the database.) The MHN also has a shorter list of “[Providers in EA](https://www.eamentalhealthnavigator.com/therapists)” which I think is mainly comprised of people who identify as EAs or are particularly familiar with effective altruism.
+**You can find a list of providers recommended by community members on the** [**EA Mental Health Navigator (MHN).**](https://www.eamentalhealthnavigator.com/) **This list is the best resource for finding a therapist that is likely to work well with EAs that I know of.** (Disclaimer, I helped set up the database.) The MHN also has a shorter list of “[Providers in EA](https://www.eamentalhealthnavigator.com/therapists)” which I think is mainly comprised of people who identify as EAs or are particularly familiar with effective altruism.
 
 Here are a couple lists to find therapists familiar with specific populations: [transgender-friendly therapists](https://www.psychologytoday.com/us/therapists/transgender), [poly-friendly professionals](https://www.polyfriendly.org/), and [kink-aware professionals](https://www.kapprofessionals.org/).
 

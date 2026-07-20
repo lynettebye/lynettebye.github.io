@@ -47,8 +47,6 @@ Honestly: it depends mostly on you. Sessions are where we diagnose and plan; the
 - [I have ADHD; will coaching help with it?](#ADHD)
 {: .faq-links}
 
-![](/assets/images/FordingtheRiver2021-5e610d.jpg)
-
 <div id="faq" markdown="0">
 
 <p id="cost"><b><i>What does coaching cost?</i></b> — The sessions are $200 per 50-minute session, and I bill in groups of four sessions. I have a generous sliding scale available based on financial need. If you’re not sure if you can afford coaching, feel free to sign up for an intake call — you can get the benefit of the first session and discuss the sliding scale during the call.</p>
@@ -92,7 +90,7 @@ Honestly: it depends mostly on you. Sessions are where we diagnose and plan; the
 
 <p>If you think you might like to see a therapist, there is now a database of <a href="https://www.eamentalhealthnavigator.com/">community-recommended providers</a> that you can filter to find someone who fits your needs.</p>
 
-<p id="shouldisignup"><b><i>Should I sign up for coaching if I’m not sure it’s a good use of your time relative to other people you could coach?</i></b> — You should go ahead and sign up for a call. I was asked to include this question in the FAQ section, and I've had several people ask this question who I think were a great fit for coaching. I’d prefer to discuss it in our call rather than have great people not sign up for coaching!</p>
+<p id="shouldisignup"><b><i>Should I sign up for coaching if I’m not sure it’s a good use of your time relative to other people you could coach?</i></b> — You should go ahead and sign up for a call. I was asked to include this question in the FAQ section, and I've had several people ask this question who I think were a great fit for coaching. I’d prefer to discuss it in our call rather than have great people not sign up for coaching! I'll tell you if I think my coaching is the wrong tool for you. </p>
 
 <p id="career"><b><i>I’m looking for career coaching; do you do that?</i></b> — I frequently help clients through career transitions. I'm happy to help if you're looking for help structuring your goals, staying motivated, prioritizing key tasks, and thinking through big considerations. If you're looking for subject-matter help, then there are likely better fits.</p>
 

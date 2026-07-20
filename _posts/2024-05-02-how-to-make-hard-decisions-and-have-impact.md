@@ -6,12 +6,6 @@ thumbnail: /assets/images/cover-The-Perfect-Wave-April-2023-7c8736.jpg
 permalink: /blog/2024/5/2/how-to-make-hard-decisions-and-have-impact
 ---
 
-*Want an insiders view into what successful career exploration looks like?*
-
-*Want to understand why particular approaches fail?*
-
-*Read on!*
-
 ![](/assets/images/0dayssincelastexistentialcrisisovercareerchoice-08884d.jpg)
 
 Some career decisions are easy. There’s a clear best option.
