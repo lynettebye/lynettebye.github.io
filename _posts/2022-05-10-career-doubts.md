@@ -2,6 +2,7 @@
 layout: post
 title: "Interview series: Have you ever doubted whether you're good enough to pursue your career?"
 date: 2022-05-10 11:41:27
+thumbnail: /assets/images/cover-dream_1ni7bxumf7h-453bec.jpg
 permalink: /blog/2022/5/10/career-doubts
 ---
 

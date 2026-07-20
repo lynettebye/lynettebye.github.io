@@ -2,6 +2,7 @@
 layout: post
 title: "Reduce uncertainty for better decisions, a short rant"
 date: 2024-08-29 10:44:10
+thumbnail: /assets/images/cover-Fall-in-Harvard-Yard-c5adfe.jpg
 permalink: /blog/2024/7/29/reduce-uncertainty-for-better-decisions-a-short-rant
 ---
 

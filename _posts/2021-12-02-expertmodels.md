@@ -2,6 +2,7 @@
 layout: post
 title: "Want to be an expert? Build deep models"
 date: 2021-12-02 11:49:06
+thumbnail: /assets/images/cover-mind-brain-gears-a5fe2a.jpg
 permalink: /blog/2021/12/1/expertmodels
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Theory of change as a hypothesis: Choosing a high-impact path when you’re uncertain"
 date: 2020-11-16 20:04:21
+thumbnail: /assets/images/cover-jordan-madrid-iDzKdNI7Qgc-unsplash-f2be22.jpg
 permalink: /blog/2020/11/16/theory-of-change-as-a-hypothesis
 ---
 

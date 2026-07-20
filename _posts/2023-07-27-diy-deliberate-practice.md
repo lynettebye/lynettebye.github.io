@@ -2,6 +2,7 @@
 layout: post
 title: "DIY Deliberate Practice"
 date: 2023-07-27 07:58:47
+thumbnail: /assets/images/cover-Night-Wave-2-April-2023-cabcb6.jpg
 permalink: /blog/2023/7/27/diy-deliberate-practice
 ---
 

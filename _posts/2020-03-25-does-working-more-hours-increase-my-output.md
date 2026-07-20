@@ -2,6 +2,7 @@
 layout: post
 title: "Self-experiment: Does working more hours increase my output?"
 date: 2020-03-25 02:31:30
+thumbnail: /assets/images/cover-Words-per-hours-of-writing-484b6e.png
 permalink: /blog/2020/3/24/does-working-more-hours-increase-my-output
 ---
 

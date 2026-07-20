@@ -2,6 +2,7 @@
 layout: post
 title: "Interview series: Do you need to love your work to do it well?"
 date: 2022-05-25 12:16:30
+thumbnail: /assets/images/cover-dream_1ni7bxumf7h-985f33.jpg
 permalink: /blog/2022/5/25/do-you-need-to-love-your-work
 ---
 

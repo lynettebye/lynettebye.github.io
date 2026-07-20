@@ -2,6 +2,7 @@
 layout: post
 title: "Interview series: If you could send a list back in time, what would you tell yourself?"
 date: 2022-06-30 19:30:53
+thumbnail: /assets/images/cover-dream_1ni7bxumf7h-876dc0.jpg
 permalink: /blog/2022/6/30/if-you-could
 ---
 

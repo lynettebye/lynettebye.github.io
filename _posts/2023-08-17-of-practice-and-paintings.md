@@ -2,6 +2,7 @@
 layout: post
 title: "Of Practice and Paintings: The Art of Practicing on the Job"
 date: 2023-08-17 17:56:08
+thumbnail: /assets/images/cover-PXL_20230815_083554330-b52a1c.jpg
 permalink: /blog/2023/8/17/of-practice-and-paintings
 ---
 

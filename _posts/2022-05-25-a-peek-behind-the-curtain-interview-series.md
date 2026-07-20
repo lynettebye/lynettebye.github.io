@@ -2,6 +2,7 @@
 layout: post
 title: "A Peek Behind the Curtain Interview Series"
 date: 2022-05-25 12:11:54
+thumbnail: /assets/images/cover-dream_1ni7bxumf7h-c4f38d.jpg
 permalink: /blog/2022/5/25/a-peek-behind-the-curtain-interview-series
 ---
 

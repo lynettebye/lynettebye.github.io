@@ -2,6 +2,7 @@
 layout: post
 title: "High Variance Productivity Advice"
 date: 2020-03-01 07:05:20
+thumbnail: /assets/images/cover-hal-gatewood-AypaEmWVH8I-unsplash-af5a6d.jpg
 permalink: /blog/2020/2/29/high-variance-productivity-advice
 ---
 

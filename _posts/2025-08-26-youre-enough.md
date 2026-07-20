@@ -2,6 +2,7 @@
 layout: post
 title: "You’re enough"
 date: 2025-08-26 12:09:26
+thumbnail: /assets/images/cover-Elephants-Oct-2024-b8583a.jpg
 permalink: /blog/2025/8/26/youre-enough
 ---
 

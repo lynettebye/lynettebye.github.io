@@ -2,6 +2,7 @@
 layout: post
 title: "Inside the Minds of ADHD"
 date: 2023-04-20 15:16:30
+thumbnail: /assets/images/cover-Colorful-brain-2-f543a2.jpg
 permalink: /blog/2023/4/20/inside-the-minds-of-adhd
 ---
 

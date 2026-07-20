@@ -2,6 +2,7 @@
 layout: post
 title: "Will MacAskill on his ‘Eat That Elephant’ routine, learning from successful people, and the diminishing marginal returns of time spent working"
 date: 2019-10-09 17:48:04
+thumbnail: /assets/images/cover-MacAskill-20160223121857113-2da5a4.jpg
 permalink: /blog/2019/10/3/will-macaskill-on-his-eat-that-elephant-routine-learning-from-successful-people-and-the-diminishing-marginal-returns-of-time-spent-working
 ---
 

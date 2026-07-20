@@ -2,6 +2,7 @@
 layout: post
 title: "Being Productive with Chronic Health Conditions"
 date: 2020-11-01 00:55:10
+thumbnail: /assets/images/cover-Medical-stethoscope-thumb2-8b9224.jpg
 permalink: /blog/2020/10/31/being-productive-with-chronic-health-conditions
 ---
 

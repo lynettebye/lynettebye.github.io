@@ -2,6 +2,7 @@
 layout: post
 title: "Measuring Progress"
 date: 2020-08-28 00:12:57
+thumbnail: /assets/images/cover-volodymyr-hryshchenko-L0oJ4Dlfyuo-unsplash-2c4427.jpg
 permalink: /blog/2020/8/27/measuring-progress
 ---
 

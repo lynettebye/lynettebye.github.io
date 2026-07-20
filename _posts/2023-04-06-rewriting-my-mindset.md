@@ -2,6 +2,7 @@
 layout: post
 title: "Rewriting My Mindset: My Experience with CBT for Perfectionism"
 date: 2023-04-06 15:51:40
+thumbnail: /assets/images/cover-3088cf4fa4899ade917b052a317949150076bb3d-fd4c08.jpg
 permalink: /blog/2023/4/2/rewriting-my-mindset
 ---
 

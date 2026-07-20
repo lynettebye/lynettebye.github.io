@@ -2,6 +2,7 @@
 layout: post
 title: "Tara Mac Aulay on happiness and work, self-experimentation, and prioritization"
 date: 2020-04-04 17:53:17
+thumbnail: /assets/images/cover-23131549_10212736096810180_6265897735071447840_n-9a4d23.jpg
 permalink: /blog/2020/4/4/tara-mac-aulay-on-happiness-and-work-self-experimentation-and-prioritization
 ---
 

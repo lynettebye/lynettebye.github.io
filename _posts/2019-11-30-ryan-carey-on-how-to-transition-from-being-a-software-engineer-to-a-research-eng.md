@@ -2,6 +2,7 @@
 layout: post
 title: "Ryan Carey on how to transition from being a software engineer to a research engineer at an AI safety team"
 date: 2019-11-30 00:45:49
+thumbnail: /assets/images/cover-profile-71025a.png
 permalink: /blog/2019/11/29/ryan-carey-on-how-to-transition-from-being-a-software-engineer-to-a-research-engineer-at-an-ai-safety-team
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Three Coaching Stories"
 date: 2022-10-25 16:29:39
+thumbnail: /assets/images/cover-Overlook-Aug-2023-560861.jpg
 permalink: /blog/2022/10/25/three-coaching-stories
 ---
 

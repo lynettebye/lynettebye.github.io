@@ -2,6 +2,7 @@
 layout: post
 title: "Interview series: What is most important for your productivity?"
 date: 2022-06-13 17:11:12
+thumbnail: /assets/images/cover-dream_1ni7bxumf7h-dd4f8f.jpg
 permalink: /blog/2022/6/10/what-is-most-important-for-your-productivity
 ---
 

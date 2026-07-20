@@ -2,6 +2,7 @@
 layout: post
 title: "Lewis Bollard on self-experimentation, zero distractions, and hyper focus"
 date: 2020-04-27 23:42:52
+thumbnail: /assets/images/cover-Untitled-1-29c64d.jpg
 permalink: /blog/2020/4/27/lewis-bollard-on-self-experimentation-zero-distractions-and-hyper-focus
 ---
 

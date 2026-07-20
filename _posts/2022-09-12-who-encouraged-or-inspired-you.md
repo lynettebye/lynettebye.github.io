@@ -2,6 +2,7 @@
 layout: post
 title: "Interview series: Who encouraged or inspired you?"
 date: 2022-09-12 07:16:31
+thumbnail: /assets/images/cover-dream_1ni7bxumf7h-3128ec.jpg
 permalink: /blog/2022/9/8/who-encouraged-or-inspired-you
 ---
 

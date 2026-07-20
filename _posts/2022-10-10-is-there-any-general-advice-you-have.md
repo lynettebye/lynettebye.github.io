@@ -2,6 +2,7 @@
 layout: post
 title: "Interview series: Do you have any general advice?"
 date: 2022-10-10 08:43:57
+thumbnail: /assets/images/cover-dream_1ni7bxumf7h-b13c00.jpg
 permalink: /blog/2022/10/6/is-there-any-general-advice-you-have
 ---
 

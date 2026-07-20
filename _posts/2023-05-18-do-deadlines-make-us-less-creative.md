@@ -2,6 +2,7 @@
 layout: post
 title: "Do deadlines make us less creative?"
 date: 2023-05-18 21:27:57
+thumbnail: /assets/images/cover-Creativity-and-deadlines-2a614a.jpg
 permalink: /blog/2023/5/16/do-deadlines-make-us-less-creative
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "The 10,000-Hour Rule is a myth"
 date: 2021-02-01 04:44:30
+thumbnail: /assets/images/cover-10000-hours-76acce.jpg
 permalink: /blog/2021/1/31/the-10000-hour-rule-is-a-myth
 ---
 

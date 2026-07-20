@@ -2,6 +2,7 @@
 layout: post
 title: "Clearer paths and sharper ideas (Crosspost)"
 date: 2021-11-22 18:39:54
+thumbnail: /assets/images/cover-Clearer-Thinking-9c0f9d.jpg
 permalink: /blog/2021/11/22/clearer-paths-and-sharper-ideas-crosspost
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "How long can people usefully work?"
 date: 2020-03-21 03:19:09
+thumbnail: /assets/images/cover-Output-by-hours-worked-caa025.png
 permalink: /blog/2020/3/20/how-long-can-people-usefully-work
 ---
 

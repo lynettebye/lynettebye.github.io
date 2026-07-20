@@ -2,6 +2,7 @@
 layout: post
 title: "How to get diagnosed with ADHD"
 date: 2023-05-04 16:23:59
+thumbnail: /assets/images/cover-Brain-doc-1-c840d5.jpeg
 permalink: /blog/2023/5/4/how-to-get-diagnosed-with-adhd
 ---
 

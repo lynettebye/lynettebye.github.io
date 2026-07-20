@@ -2,6 +2,7 @@
 layout: post
 title: "How much is your time worth?"
 date: 2019-09-28 18:46:51
+thumbnail: /assets/images/cover-gavin-allanwood-rObq1WBp_Ew-unsplash-a2fe79.jpg
 permalink: /blog/2019/9/28/how-much-is-your-time-worth
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "How much career exploration is enough?"
 date: 2024-04-11 09:08:09
+thumbnail: /assets/images/cover-Sunflowers-and-Village-50248a.jpg
 permalink: /blog/2024/4/7/how-much-career-exploration-is-enough
 ---
 

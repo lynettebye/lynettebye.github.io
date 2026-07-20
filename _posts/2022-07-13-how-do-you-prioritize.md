@@ -2,6 +2,7 @@
 layout: post
 title: "Interview series: How do you prioritize?"
 date: 2022-07-13 10:11:57
+thumbnail: /assets/images/cover-dream_1ni7bxumf7h-bdc001.jpg
 permalink: /blog/2022/7/12/how-do-you-prioritize
 ---
 

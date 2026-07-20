@@ -2,6 +2,7 @@
 layout: post
 title: "Owen Cotton-Barratt on prioritization, flow, and making time for shower thoughts"
 date: 2019-11-21 00:47:16
+thumbnail: /assets/images/cover-DSC04326_-Owen_-_2880-688df8.jpg
 permalink: /blog/2019/11/20/owen-cotton-barratt-on-prioritization-flow-and-making-time-for-shower-thoughts
 ---
 

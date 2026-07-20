@@ -2,6 +2,7 @@
 layout: post
 title: "Interview series: What does self-care look like for you?"
 date: 2022-07-26 10:34:46
+thumbnail: /assets/images/cover-dream_1ni7bxumf7h-3f1549.jpg
 permalink: /blog/2022/7/25/what-does-self-care-look-like
 ---
 

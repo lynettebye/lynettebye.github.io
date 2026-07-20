@@ -2,6 +2,7 @@
 layout: post
 title: "How time tracking can help you prioritize"
 date: 2019-12-17 06:26:00
+thumbnail: /assets/images/cover-aron-visuals-BXOXnQ26B7o-unsplash-d591e2.jpg
 permalink: /blog/2019/12/15/how-time-tracking-can-help-you-prioritize
 ---
 

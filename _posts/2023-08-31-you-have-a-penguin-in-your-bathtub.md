@@ -2,6 +2,7 @@
 layout: post
 title: "Be surprised by failure"
 date: 2023-08-31 18:35:50
+thumbnail: /assets/images/cover-430056103698c2445e5098b774d98a12e9d5518c-787d0f.jpg
 permalink: /blog/2023/8/31/you-have-a-penguin-in-your-bathtub
 ---
 

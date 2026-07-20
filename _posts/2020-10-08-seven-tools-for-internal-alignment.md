@@ -2,6 +2,7 @@
 layout: post
 title: "Seven Tools for Internal Alignment"
 date: 2020-10-08 01:29:13
+thumbnail: /assets/images/cover-Alignment-ceea3c.png
 permalink: /blog/2020/10/7/seven-tools-for-internal-alignment
 ---
 

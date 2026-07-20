@@ -2,6 +2,7 @@
 layout: post
 title: "Interview series: What skills have you put deliberate practice into?"
 date: 2022-08-15 14:01:41
+thumbnail: /assets/images/cover-dream_1ni7bxumf7h-2a39ee.jpg
 permalink: /blog/2022/8/15/what-skills-have-you-put-deliberate-practice
 ---
 

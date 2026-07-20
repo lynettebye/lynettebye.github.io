@@ -2,6 +2,7 @@
 layout: post
 title: "Niel Bowerman on goal-setting, hacking motivation, and 80,000 Hours' bout system"
 date: 2019-11-03 06:36:39
+thumbnail: /assets/images/cover-niel-881691.png
 permalink: /blog/2019/11/2/niel-bowerman-on-goal-setting-hacking-motivation-and-80000-hours-bout-system
 ---
 

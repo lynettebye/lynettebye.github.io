@@ -2,6 +2,7 @@
 layout: post
 title: "How to Improve Your Sleep"
 date: 2019-10-27 23:26:15
+thumbnail: /assets/images/cover-sleepy-puppy-6e1f33.jpg
 permalink: /blog/2019/10/24/lu1xjfsg8i9rzkatmnqgh2r9ykb0r1
 ---
 

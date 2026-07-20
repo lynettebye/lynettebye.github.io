@@ -2,6 +2,7 @@
 layout: post
 title: "How to Make Easy Decisions"
 date: 2022-11-07 13:15:07
+thumbnail: /assets/images/cover-cost-276815.png
 permalink: /blog/2022/11/7/how-to-make-easy-decisions
 ---
 

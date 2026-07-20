@@ -2,6 +2,7 @@
 layout: post
 title: "How to make career decisions and have impact"
 date: 2024-05-02 12:16:16
+thumbnail: /assets/images/cover-The-Perfect-Wave-April-2023-7c8736.jpg
 permalink: /blog/2024/5/2/how-to-make-hard-decisions-and-have-impact
 ---
 

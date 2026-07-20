@@ -2,6 +2,7 @@
 layout: post
 title: "Leveling Up or Leveling Off? Understanding the Science Behind Skill Plateaus"
 date: 2023-06-16 00:14:30
+thumbnail: /assets/images/cover-dream_o1ghmew5o6u2_edited-00da2f.jpg
 permalink: /blog/2023/5/30/understanding-the-science-behind-skill-plateaus
 ---
 
