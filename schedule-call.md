@@ -13,14 +13,10 @@ The intake call gives you a taste of what coaching is like with me. You can ask 
 <div id="intake-form-wrap" markdown="0">
 <form id="intake-form" action="https://formspree.io/f/xaqrojjr" method="POST">
   <p>
-    <label for="first-name">First Name <span class="req">(required)</span></label><br>
-    <input type="text" id="first-name" name="First Name" required>
+    <label for="full-name">Full Name <span class="req">(required)</span></label><br>
+    <input type="text" id="full-name" name="Full Name" required>
   </p>
-  <p>
-    <label for="last-name">Last Name <span class="req">(required)</span></label><br>
-    <input type="text" id="last-name" name="Last Name" required>
-  </p>
-  <p>
+   <p>
     <label for="email">Email Address <span class="req">(required)</span></label><br>
     <input type="email" id="email" name="email" required>
   </p>
